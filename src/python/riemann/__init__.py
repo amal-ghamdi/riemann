@@ -19,6 +19,7 @@ from rp_nonlinear_elasticity import rp_nonlinear_elasticity_1d
 import static
 
 try:
+    import rp1_acoustics_variable
     import rp1_acoustics
     import rp1_advection
     import rp1_burgers

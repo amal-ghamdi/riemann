@@ -1,6 +1,7 @@
 # List of Solvers
 RIEMANN_SOLVERS = \
 	rp1_acoustics \
+        rp1_acoustics_variable \
 	rp1_advection \
 	rp1_burgers \
 	rp1_euler_with_efix \

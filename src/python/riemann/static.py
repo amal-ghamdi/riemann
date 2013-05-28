@@ -1,6 +1,7 @@
 num_eqn = {
         'rp2_euler_4wave' : 4,
         'rp1_acoustics' : 2,
+        'rp1_acoustics_variable':2,
         'rp1_advection' : 1,
         'rp1_burgers' : 1,
         'rp1_traffic' : 1,
@@ -25,6 +26,7 @@ num_eqn = {
 num_waves = {
         'rp2_euler_4wave' : 4,
         'rp1_acoustics' : 2,
+        'rp1_acoustics_variable':2,
         'rp1_advection' : 1,
         'rp1_burgers' : 1,
         'rp1_traffic' : 1,

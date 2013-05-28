@@ -1,4 +1,5 @@
 one_d_riemann =   ['acoustics',
+                   'acoustics_variable',
                    'advection',
                    'burgers',
                    'traffic',
